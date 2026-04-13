@@ -1,0 +1,11 @@
+C:\Users\Sheehan\Desktop\учебка\c#\WorkLink.Domain\bin\Debug\net8.0\WorkLink.Domain.deps.json
+C:\Users\Sheehan\Desktop\учебка\c#\WorkLink.Domain\bin\Debug\net8.0\WorkLink.Domain.dll
+C:\Users\Sheehan\Desktop\учебка\c#\WorkLink.Domain\bin\Debug\net8.0\WorkLink.Domain.pdb
+C:\Users\Sheehan\Desktop\учебка\c#\WorkLink.Domain\obj\Debug\net8.0\WorkLink.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sheehan\Desktop\учебка\c#\WorkLink.Domain\obj\Debug\net8.0\WorkLink.Domain.AssemblyInfoInputs.cache
+C:\Users\Sheehan\Desktop\учебка\c#\WorkLink.Domain\obj\Debug\net8.0\WorkLink.Domain.AssemblyInfo.cs
+C:\Users\Sheehan\Desktop\учебка\c#\WorkLink.Domain\obj\Debug\net8.0\WorkLink.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sheehan\Desktop\учебка\c#\WorkLink.Domain\obj\Debug\net8.0\WorkLink.Domain.dll
+C:\Users\Sheehan\Desktop\учебка\c#\WorkLink.Domain\obj\Debug\net8.0\refint\WorkLink.Domain.dll
+C:\Users\Sheehan\Desktop\учебка\c#\WorkLink.Domain\obj\Debug\net8.0\WorkLink.Domain.pdb
+C:\Users\Sheehan\Desktop\учебка\c#\WorkLink.Domain\obj\Debug\net8.0\ref\WorkLink.Domain.dll
